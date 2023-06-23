@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/comradzofficial/static/css/main.ba3e32b6.css",
+    "main.js": "/comradzofficial/static/js/main.2486d257.js",
+    "static/js/787.fcdc4b66.chunk.js": "/comradzofficial/static/js/787.fcdc4b66.chunk.js",
+    "static/media/comradz2.mp4": "/comradzofficial/static/media/comradz2.f1bf5101629ee0e1efc9.mp4",
+    "static/media/comradz_audition.jpg": "/comradzofficial/static/media/comradz_audition.808beff7c46beb35f0d2.jpg",
+    "static/media/comradzwsb.jpg": "/comradzofficial/static/media/comradzwsb.7a210cc21894f68dacb3.jpg",
+    "static/media/comradzshirt.png": "/comradzofficial/static/media/comradzshirt.0fd1b7fe224e9953de23.png",
+    "static/media/comradz3.jpg": "/comradzofficial/static/media/comradz3.e4eb229edcac37d2ef81.jpg",
+    "static/media/melvin3.jpg": "/comradzofficial/static/media/melvin3.0f9a75261d7c2825b714.jpg",
+    "static/media/melvin1.jpg": "/comradzofficial/static/media/melvin1.67be3ea10eb12de8e5d7.jpg",
+    "static/media/melvin2.jpg": "/comradzofficial/static/media/melvin2.8e8bcac17f0d7c906f91.jpg",
+    "static/media/logo.svg": "/comradzofficial/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/comradzofficial/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/comradzofficial/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/comradzofficial/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/comradzofficial/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/comradzofficial/index.html",
+    "static/media/instagramsvg.svg": "/comradzofficial/static/media/instagramsvg.fdf89da1057daf6fc5278d7c4060deac.svg",
+    "static/media/callsvg.svg": "/comradzofficial/static/media/callsvg.9023d6682b49d10b38cabed8a70ae54d.svg",
+    "static/media/facebooksvg.svg": "/comradzofficial/static/media/facebooksvg.00d67b8e800ce1f2929efbdda31e8db9.svg",
+    "main.ba3e32b6.css.map": "/comradzofficial/static/css/main.ba3e32b6.css.map",
+    "main.2486d257.js.map": "/comradzofficial/static/js/main.2486d257.js.map",
+    "787.fcdc4b66.chunk.js.map": "/comradzofficial/static/js/787.fcdc4b66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba3e32b6.css",
+    "static/js/main.2486d257.js"
+  ]
+}
