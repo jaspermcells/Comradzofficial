@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/comradzofficial%20/static/css/main.1e1b6642.css",
-    "main.js": "/comradzofficial%20/static/js/main.08801d31.js",
+    "main.css": "/comradzofficial%20/static/css/main.f0311868.css",
+    "main.js": "/comradzofficial%20/static/js/main.5897932d.js",
     "static/js/787.fcdc4b66.chunk.js": "/comradzofficial%20/static/js/787.fcdc4b66.chunk.js",
     "static/media/comradz2.mp4": "/comradzofficial%20/static/media/comradz2.f1bf5101629ee0e1efc9.mp4",
     "static/media/comradz_audition.jpg": "/comradzofficial%20/static/media/comradz_audition.808beff7c46beb35f0d2.jpg",
     "static/media/comradzwsb.jpg": "/comradzofficial%20/static/media/comradzwsb.7a210cc21894f68dacb3.jpg",
     "static/media/comradzshirt.png": "/comradzofficial%20/static/media/comradzshirt.0fd1b7fe224e9953de23.png",
-    "static/media/comradz3.jpg": "/comradzofficial%20/static/media/comradz3.e4eb229edcac37d2ef81.jpg",
     "static/media/melvin3.jpg": "/comradzofficial%20/static/media/melvin3.0f9a75261d7c2825b714.jpg",
     "static/media/melvin1.jpg": "/comradzofficial%20/static/media/melvin1.67be3ea10eb12de8e5d7.jpg",
     "static/media/melvin2.jpg": "/comradzofficial%20/static/media/melvin2.8e8bcac17f0d7c906f91.jpg",
@@ -19,12 +18,12 @@
     "static/media/instagramsvg.svg": "/comradzofficial%20/static/media/instagramsvg.fdf89da1057daf6fc5278d7c4060deac.svg",
     "static/media/callsvg.svg": "/comradzofficial%20/static/media/callsvg.9023d6682b49d10b38cabed8a70ae54d.svg",
     "static/media/facebooksvg.svg": "/comradzofficial%20/static/media/facebooksvg.00d67b8e800ce1f2929efbdda31e8db9.svg",
-    "main.1e1b6642.css.map": "/comradzofficial%20/static/css/main.1e1b6642.css.map",
-    "main.08801d31.js.map": "/comradzofficial%20/static/js/main.08801d31.js.map",
+    "main.f0311868.css.map": "/comradzofficial%20/static/css/main.f0311868.css.map",
+    "main.5897932d.js.map": "/comradzofficial%20/static/js/main.5897932d.js.map",
     "787.fcdc4b66.chunk.js.map": "/comradzofficial%20/static/js/787.fcdc4b66.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e1b6642.css",
-    "static/js/main.08801d31.js"
+    "static/css/main.f0311868.css",
+    "static/js/main.5897932d.js"
   ]
 }
