@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/comradzofficial/static/css/main.8d8970db.css",
-    "main.js": "/comradzofficial/static/js/main.904733b1.js",
+    "main.css": "/comradzofficial/static/css/main.890695bb.css",
+    "main.js": "/comradzofficial/static/js/main.a9c4d691.js",
     "static/js/787.fcdc4b66.chunk.js": "/comradzofficial/static/js/787.fcdc4b66.chunk.js",
     "static/media/comradz2.mp4": "/comradzofficial/static/media/comradz2.f1bf5101629ee0e1efc9.mp4",
     "static/media/comradz_audition.jpg": "/comradzofficial/static/media/comradz_audition.808beff7c46beb35f0d2.jpg",
@@ -18,12 +18,12 @@
     "static/media/instagramsvg.svg": "/comradzofficial/static/media/instagramsvg.fdf89da1057daf6fc5278d7c4060deac.svg",
     "static/media/callsvg.svg": "/comradzofficial/static/media/callsvg.9023d6682b49d10b38cabed8a70ae54d.svg",
     "static/media/facebooksvg.svg": "/comradzofficial/static/media/facebooksvg.00d67b8e800ce1f2929efbdda31e8db9.svg",
-    "main.8d8970db.css.map": "/comradzofficial/static/css/main.8d8970db.css.map",
-    "main.904733b1.js.map": "/comradzofficial/static/js/main.904733b1.js.map",
+    "main.890695bb.css.map": "/comradzofficial/static/css/main.890695bb.css.map",
+    "main.a9c4d691.js.map": "/comradzofficial/static/js/main.a9c4d691.js.map",
     "787.fcdc4b66.chunk.js.map": "/comradzofficial/static/js/787.fcdc4b66.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d8970db.css",
-    "static/js/main.904733b1.js"
+    "static/css/main.890695bb.css",
+    "static/js/main.a9c4d691.js"
   ]
 }
